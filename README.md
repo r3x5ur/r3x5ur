@@ -6,7 +6,7 @@
 ### Languages & All Stars 🦄
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-img src="https://ping0.cc/img1" alt="ping0"  />
+<img height="150" src="https://ping0.cc/img1" alt="ping0"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r3x5ur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  />
 <p style="height:200px;">
   <img src="https://github-readme-stats.vercel.app/api?username=r3x5ur&theme=radical" height="160px"/>
